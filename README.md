@@ -11,6 +11,8 @@ Shows current weather: temperature, wind speed, weather condition with emoji + d
 3-day forecast (max/min temperature + description)
 Responsive UI with loading spinner and error handling
 Friendly messages for invalid inputs or missing data
+
+
 Tech Stack
 | Layer | Technology | | UI library | React | | Styling | Tailwind CSS (via CDN) | | APIs | Open-Meteo Geocoding & Forecast APIs | | Hosting / Runner | StackBlitz (live playground) |
 
@@ -38,7 +40,10 @@ chatgpt.txt — conversation/work log with ChatGPT showing how the project was b
 README.md — this file.
 Live link of the app (above).
 Source code (on StackBlitz or downloadable export).
+
+
 APIs Used
 Geocoding: https://geocoding-api.open-meteo.com/v1/search
 Forecast / Weather Data: https://api.open-meteo.com/v1/forecast
+
 Thanks for checking out Weather Now! Feedback is welcome.
